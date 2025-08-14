@@ -41,4 +41,4 @@ uninstall:
 	rm -rf maze
 
 clean:
-	rm -rf maze test.out report
+	rm -rf maze test.out report ./web/maze
